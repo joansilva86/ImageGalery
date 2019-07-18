@@ -1,4 +1,4 @@
-package com.tiendakosher.imagegalery
+package com.treesoft.ImageGalery
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.tiendakosher.imagegalery", appContext.packageName)
+        assertEquals("com.treesoft.ImageGalery", appContext.packageName)
     }
 }

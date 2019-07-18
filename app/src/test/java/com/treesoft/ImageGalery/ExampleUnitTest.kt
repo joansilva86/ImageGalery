@@ -1,4 +1,4 @@
-package com.tiendakosher.imagegalery
+package com.treesoft.ImageGalery
 
 import org.junit.Test
 
